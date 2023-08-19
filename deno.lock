@@ -22,6 +22,7 @@
       "prettier@^2.8.0": "prettier@2.8.8",
       "svelte-check@^3.4.3": "svelte-check@3.5.0_svelte@4.2.0_typescript@5.1.6",
       "svelte@^4.0.5": "svelte@4.2.0",
+      "sveltekit-adapter-deno@^0.11.2": "sveltekit-adapter-deno@0.11.2_@sveltejs+kit@1.22.6__svelte@4.2.0__vite@4.4.9__vite@4.4.9___@types+node@18.16.19_svelte@4.2.0_vite@4.4.9",
       "tslib@^2.4.1": "tslib@2.6.2",
       "typescript@^5.0.0": "typescript@5.1.6",
       "vite": "vite@4.4.9",
@@ -1701,6 +1702,13 @@
           "locate-character": "locate-character@3.0.0",
           "magic-string": "magic-string@0.30.2",
           "periscopic": "periscopic@3.1.0"
+        }
+      },
+      "sveltekit-adapter-deno@0.11.2_@sveltejs+kit@1.22.6__svelte@4.2.0__vite@4.4.9__vite@4.4.9___@types+node@18.16.19_svelte@4.2.0_vite@4.4.9": {
+        "integrity": "sha512-QkT0yRtH7Hl8E9GzuOgbupjGmI4HOapr5YlXn3qKtmx8qy2BpTDMIUSVBbPXuuq1Lfk2MhlnyUtRIEUKsM4b1Q==",
+        "dependencies": {
+          "@sveltejs/kit": "@sveltejs/kit@1.22.6_svelte@4.2.0_vite@4.4.9_vite@4.4.9__@types+node@18.16.19",
+          "esbuild": "esbuild@0.18.20"
         }
       },
       "text-table@0.2.0": {

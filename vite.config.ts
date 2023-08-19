@@ -1,5 +1,5 @@
-import { sveltekit } from 'npm:@sveltejs/kit/vite';
-import { defineConfig } from 'npm:vitest/config';
+import { sveltekit } from '@sveltejs/kit/vite';
+import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
 	plugins: [sveltekit()],
