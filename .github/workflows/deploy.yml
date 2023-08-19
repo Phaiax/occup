@@ -35,8 +35,8 @@ jobs:
         run: npm ll
 
       - name: Build
-        # run: npx vite build
-        run: deno run --allow-all --unstable --node-modules-dir npm:vite build
+        run: npx vite build -d -l info
+        # run: deno run --allow-all --unstable --node-modules-dir npm:vite build
         env:
           NODE_ENV: production
 
