@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"statistic_json"
+			],
+			[
+				"kpi_",
+				"kpi_results"
+			],
+			[
+				"kl",
+				"kpi_timeline"
+			],
+			[
+				"KP",
+				"KPI"
+			],
+			[
+				"kp",
+				"kpi_results_testcases_serialized"
+			],
+			[
+				"sof",
+				"software_class"
+			],
+			[
+				"suc",
+				"success"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pacla",
+				"Package Control: List Packages"
+			],
+			[
+				"convertt",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"pcinst",
+				"Package Control: Install Package"
+			],
+			[
+				"pcins",
+				"Package Control: Install Package"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 344.0,
+		"history":
+		[
+			"13*4*7*4*12"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/daniel/occup"
+	],
+	"file_history":
+	[
+		"/home/daniel/logradar.sublime-project",
+		"/home/daniel/tmp/data",
+		"/home/daniel/LOG_SERVER/sstcentral/logradar/models.py",
+		"/home/daniel/LOG_SERVER/sstcentral/logradar/templates/logradar/kpi.html",
+		"/home/daniel/LOG_SERVER/sstcentral/logradar/apiv1.py",
+		"/home/daniel/LOG_SERVER/requirements.txt",
+		"/home/daniel/LOG_SERVER/.env",
+		"/home/daniel/LOG_SERVER/sstcentral/logradar/admin.py",
+		"/home/daniel/LOG_SERVER/sstcentral/logradar/views/project.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "occup.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"adm",
+				"sstcentral/logradar/admin.py"
+			],
+			[
+				"pro",
+				"sstcentral/logradar/views/project.py"
+			],
+			[
+				"mode",
+				"sstcentral/logradar/models.py"
+			],
+			[
+				"kpi.",
+				"sstcentral/logradar/templates/logradar/kpi.html"
+			],
+			[
+				"proj",
+				"sstcentral/logradar/views/project.py"
+			],
+			[
+				"req",
+				"requirements.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
